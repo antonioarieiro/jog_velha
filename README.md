@@ -1,7 +1,7 @@
-# Tic Tac Toe
+# Jogo da velha
 
 Jogo da velha criado para disciplina de eng software, criado durante o workshop flutter & dart
-
+o intuito desse projeto é demonstrar uma aplicação feita em dart utilizando metodos simples 
 
 ## Como clonar o projeto
 
