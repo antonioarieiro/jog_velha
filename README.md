@@ -4,7 +4,7 @@ Jogo da velha criado para disciplina de eng software, criado durante o workshop 
 o intuito desse projeto é demonstrar uma aplicação feita em dart utilizando metodos simples 
 
 # Link para video e Outputs 
-https://drive.google.com/drive/u/0/folders/1kBhP2qNEqh0etUxGNz4_SWyiRX76Njfb
+https://drive.google.com/drive/folders/1kBhP2qNEqh0etUxGNz4_SWyiRX76Njfb?usp=sharing
 
 ## Como clonar o projeto
 
