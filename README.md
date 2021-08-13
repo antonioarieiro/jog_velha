@@ -3,6 +3,9 @@
 Jogo da velha criado para disciplina de eng software, criado durante o workshop flutter & dart
 o intuito desse projeto é demonstrar uma aplicação feita em dart utilizando metodos simples 
 
+# Link para video e Outputs 
+https://drive.google.com/drive/u/0/folders/1kBhP2qNEqh0etUxGNz4_SWyiRX76Njfb
+
 ## Como clonar o projeto
 
 *   Faça um fork do projeto (precisa ter uma conta no github)
